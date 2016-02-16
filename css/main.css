@@ -141,11 +141,17 @@ a:hover, a:focus,  a:active {
 }
 
 .section_4 {
-    background: #491442;
+    background: #310E3B;
     color: #fff;
 }
 
 .section_5 {
+    background: #491442;
+    color: #fff;
+    fill: #fff;
+}
+
+.section_6 {
     background: #e6e6e6;
 }
 
@@ -206,11 +212,11 @@ a:hover, a:focus,  a:active {
     color: #FF696A;
 }
 
-.main-nav .twitter-logo, .main-nav .facebook-logo {
+.main-nav .social-logo .shape {
     fill: #222;
 }
 
-.main-nav a:hover .twitter-logo, .main-nav a:hover .facebook-logo {
+.main-nav a:hover .social-logo .shape {
     fill: #FF696A;
 }
 
@@ -249,6 +255,16 @@ a:hover, a:focus,  a:active {
     padding-top: 15px;
     padding-bottom: 15px;
     text-align: center;
+}
+
+.seamount-logo {
+    width: 40px;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.seamount-logo .shape {
+    fill: #222;
 }
 
 

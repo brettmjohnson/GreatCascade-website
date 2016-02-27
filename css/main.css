@@ -125,47 +125,43 @@ a:hover, a:focus,  a:active {
 
 /* SECTIONS */
 
+.section_0 {
+    background-color: #00CB97;
+    background-image: url(../img/bg-1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
 .section_1 {
-    background: #e6e6e6;
-/*    background: #23282a;*/
+    background-color: #e6e6e6;
 }
 
 .section_2 {
-    background: #fff;
+    background-color: #fff;
 }
 
 .section_3 {
-    background: #23282a;
-/*    background: #e6e6e6;*/
+    background-color: #23282a;
     color: #fff;
 }
 
 .section_4 {
-    background: #310E3B;
+    background-color: #322446;
+    background-image: url(../img/bg-2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
     color: #fff;
 }
 
 .section_5 {
-/*
-    background: #491442;
-    color: #fff;
-*/
-    
+    background-color: #65275d;
     fill: #fff;
-    
-    background: url(../img/bg-2.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     color: #fff;
 }
 
 .section_6 {
-    background: #e6e6e6;
-}
-
-.section {
-/*    border-bottom: 1px solid #b1b1b1;*/
+    background-color: #e6e6e6;
 }
 
 .content-container {
@@ -231,14 +227,6 @@ a:hover, a:focus,  a:active {
 
 
 /* HEADER */
-
-.main-header {
-    background: url(../img/bg-1.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: #fff;
-}
 
 .main-header.section .content {
     padding: 180px 0;

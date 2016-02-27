@@ -146,9 +146,18 @@ a:hover, a:focus,  a:active {
 }
 
 .section_5 {
+/*
     background: #491442;
     color: #fff;
+*/
+    
     fill: #fff;
+    
+    background: url(../img/bg-2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
 }
 
 .section_6 {
@@ -227,6 +236,7 @@ a:hover, a:focus,  a:active {
     background: url(../img/bg-1.png);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     color: #fff;
 }
 

@@ -127,10 +127,15 @@ a:hover, a:focus,  a:active {
 
 .section_0 {
     background-color: #00CB97;
-    background-image: url(../img/bg-1.png);
+    background-image: url(../img/bg-lines.svg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center center;
     color: #fff;
+}
+
+svg.lines {
+    fill: #fff;
 }
 
 .section_1 {
@@ -148,9 +153,10 @@ a:hover, a:focus,  a:active {
 
 .section_4 {
     background-color: #322446;
-    background-image: url(../img/bg-2.png);
+    background-image: url(../img/bg-water.svg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center center;
     color: #fff;
 }
 

@@ -127,17 +127,11 @@ a:hover, a:focus,  a:active {
 
 .section_0 {
     background-color: #00CB97;
-    background-image: url(../img/bg-lines-2.svg);
+    background-image: url(../img/bg-lines-3.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     color: #fff;
-    
-/*
-    background-color: #e6e6e6;
-    color: #FF696A;
-    fill: #FF696A;
-*/
 }
 
 .section_1 {

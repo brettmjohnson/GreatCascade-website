@@ -241,8 +241,8 @@ a:hover, a:focus,  a:active {
 }
 
 .title .logo {
-    width: 300px;
-    height: 60px;
+    width: 340px;
+    height: 32px;
 }
 
 /*
@@ -492,7 +492,7 @@ a:hover, a:focus,  a:active {
     }
     
     .title .logo {
-        height: 80px;
+        height: 40px;
     }
     
 }

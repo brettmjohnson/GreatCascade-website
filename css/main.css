@@ -363,6 +363,7 @@ a:hover, a:focus,  a:active {
     -moz-border-radius: 0;
     border-radius: 0;
     color: #222;
+    height: 40px;
 }
 
 #mc_embed_signup .button {
@@ -373,6 +374,7 @@ a:hover, a:focus,  a:active {
     letter-spacing: 0;
     background-color: #FF696A;
     transition: all 0.15s cubic-bezier(0.165, 0.84, 0.44, 1) 0s;
+    height: 40px;
 }
 
 #mc_embed_signup .button:hover {
@@ -468,7 +470,7 @@ a:hover, a:focus,  a:active {
     }
     
     .long-text {
-        width: 90%;
+        width: 80%;
     }
     
     .section .content {

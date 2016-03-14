@@ -127,7 +127,7 @@ a:hover, a:focus,  a:active {
 
 .section_0 {
     background-color: #00CB97;
-    background-image: url(../img/bg-lines-3.svg);
+    background-image: url(../img/bg-lines.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -207,8 +207,8 @@ a:hover, a:focus,  a:active {
 
 .main-nav a {
     display: inline-block;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 7px;
+    margin-right: 7px;
     line-height: 1.4;
     border-bottom: none;
     box-shadow: none;
@@ -217,6 +217,11 @@ a:hover, a:focus,  a:active {
 
 .main-nav a:hover {
     color: #FF696A;
+}
+
+.main-nav .social-logo {
+    height: 16px;
+    width: auto;
 }
 
 .main-nav .social-logo .shape {
@@ -489,6 +494,11 @@ a:hover, a:focus,  a:active {
     
     .title .logo {
         height: 40px;
+    }
+    
+    .main-nav a {
+        margin-left: 10px;
+        margin-right: 10px;
     }
     
 }

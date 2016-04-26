@@ -192,7 +192,9 @@ a:hover, a:focus,  a:active {
 }
 
 .long-text {
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
 }
 
 .center {
@@ -284,7 +286,8 @@ a:hover, a:focus,  a:active {
 .seamount-logo {
     width: 40px;
     height: 20px;
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: -6px;
 }
 
 .seamount-logo .shape {

@@ -108,6 +108,10 @@ img {
     width: 100%;
 }
 
+img.nonresponsive {
+    width: auto;
+}
+
 a {
     text-decoration: none;
     border-bottom: 3px solid #ff5f61;
@@ -241,7 +245,7 @@ a:hover, a:focus,  a:active {
 
 /* HEADER */
 
-.section .content.title {
+.section .content.more-content {
     padding-bottom: 0;
 }
 

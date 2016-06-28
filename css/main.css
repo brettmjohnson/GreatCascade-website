@@ -129,7 +129,7 @@ a:hover, a:focus,  a:active {
 
 /* SECTIONS */
 
-.section_0 {
+.bg-lines {
     background-color: #232332;
     background-image: url(../img/bg-lines.svg);
     background-size: cover;
@@ -138,21 +138,11 @@ a:hover, a:focus,  a:active {
     color: #fff;
 }
 
-.section_1 {
-    background-color: #F7F7F7;
-}
-
-.section_2 {
-    background-color: #fff;
-}
-
-.section_3 {
+.bg-light-gray {
     background-color: #eee;
-    color: #fff;
 }
 
-.section_4 {
-/*    background-color: #322446;*/
+.bg-water {
     background-color: #232332;
     background-image: url(../img/bg-water.svg);
     background-size: cover;
@@ -161,17 +151,10 @@ a:hover, a:focus,  a:active {
     color: #fff;
 }
 
-.section_5 {
-/*    background-color: #65275d;*/
-/*    background-color: #58576c;*/
-/*    background-color: #38203c;*/
+.bg-purple {
     background-color: #46254b;
     fill: #fff;
     color: #fff;
-}
-
-.section_6 {
-    background-color: #eee;
 }
 
 .content-container {
@@ -212,7 +195,7 @@ a:hover, a:focus,  a:active {
     font-size: 14px;
     text-align: center;
     text-transform: uppercase;
-    padding: 15px 0;  
+    padding: 15px 0;
 }
 
 .main-nav a {
@@ -363,8 +346,8 @@ a:hover, a:focus,  a:active {
 
 #mc_embed_signup {
 /*    background: blue; */
-    clear: left; 
-    font: 1em 'Roboto Mono', sans-serif; 
+    clear: left;
+    font: 1em 'Roboto Mono', sans-serif;
     width: 100%;
 }
 
@@ -481,34 +464,34 @@ a:hover, a:focus,  a:active {
         padding-left: 30px;
         padding-right: 30px;
     }
-    
+
     .long-text {
         width: 80%;
     }
-    
+
     .section .content {
         padding-top: 80px;
         padding-bottom: 80px;
     }
-    
+
     .thumbnails.content {
         padding-bottom: 40px;
     }
-    
+
     .thumbnails a {
         display: block;
         margin-bottom: 40px;
     }
-    
+
     .title .logo {
         height: 150px;
     }
-    
+
     .main-nav a {
         margin-left: 10px;
         margin-right: 10px;
     }
-    
+
 }
 
 @media print,

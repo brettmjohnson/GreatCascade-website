@@ -142,6 +142,10 @@ a:hover, a:focus,  a:active {
     background-color: #eee;
 }
 
+.bg-dark-gray {
+    background-color: #222;
+}
+
 .bg-water {
     background-color: #232332;
     background-image: url(../img/bg-water.svg);

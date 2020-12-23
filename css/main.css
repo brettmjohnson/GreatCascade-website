@@ -256,6 +256,24 @@ a:hover, a:focus,  a:active {
     fill: #ff5f61;
 }
 
+.nav-list ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    /* gap: 2rem; */
+}
+
+.nav-list li {
+    margin-bottom: 1rem;
+}
+
+.nav-list li:not(:last-child) {
+    margin-right: 2rem;
+}
+
 
 /* HEADER */
 
